@@ -1,1 +1,2 @@
-# itis-frontend-2-1-steam
+everything here https://github.com/scilightener/inf-dev-basics
+(sorry for inconvinience)
